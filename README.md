@@ -2,7 +2,7 @@
   <img src="adamngod.jpg" width="100%" />
 </p>
 
-# 🚀 Adam | Étudiant @HolbertonSchool
+# 🚀 Adam | Étudiant
 
 <p align="left">
   <img src="https://img.shields.io/badge/ÉCOLE-HOLBERTON_SCHOOL_TOULOUSE-red?style=for-the-badge" />
