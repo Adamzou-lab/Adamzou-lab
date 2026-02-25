@@ -1,6 +1,9 @@
-![Statistiques d'Adam](https://github-readme-stats.vercel.app/api?username=Adamzou-lab&show_icons=true&theme=radical&hide_border=true)
+# 🚀 Adam | Étudiant @HolbertonSchool
 
-# Salut, moi c'est Adam ! 👋
+<p align="left">
+  <img src="https://img.shields.io/badge/ÉCOLE-HOLBERTON_SCHOOL_TOULOUSE-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OBJECTIF-MLOPS-green?style=for-the-badge" />
+</p>
 
 ### 👨‍💻 À propos
 J'ai 25 ans et je suis actuellement **étudiant à Holberton School Toulouse**. Je prépare un **titre RNCP 5 (Développeur Web et Web Mobile)** tout en forgeant mes bases en programmation système.
@@ -17,7 +20,11 @@ Mon parcours est guidé par la curiosité et l'efficacité :
 - **Automation & Outils :** Grand fan d'**n8n**, Git, GitHub.
 - **En préparation :** Titre RNCP 5 - Développeur Web & Web Mobile.
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamzou-lab&langs_count=8&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 ---
 
