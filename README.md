@@ -11,6 +11,7 @@
 
 ### 👨‍💻 À propos
 J'ai 25 ans et je suis actuellement **étudiant à Holberton School Toulouse**. Je prépare un **titre RNCP 5 (Développeur Web et Web Mobile)** tout en forgeant mes bases en programmation système.
+J'alimenterais mon Github tout au long de l'année avec mes projets scolaires et persos!
 
 Mon parcours est guidé par la curiosité et l'efficacité :
 - 🎓 **Formation :** Holberton School Toulouse (Focus actuel : Langage C & Algorithmique).
@@ -36,7 +37,7 @@ Mon parcours est guidé par la curiosité et l'efficacité :
 - **Éloquence :** Capacité de synthèse et de présentation orale (Prix d'éloquence 🏆).
 - **Automatisation :** Passionné par l'optimisation des workflows et la culture DevOps/MLOps.
 - **Peer-Learning :** Apprentissage collaboratif et autonomie renforcée par la méthode Holberton.
-
+- 
 ---
 
 ### 📫 Me contacter
