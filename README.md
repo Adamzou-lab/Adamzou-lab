@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="adamngod.jpg" width="100%" />
+</p>
+
 # 🚀 Adam | Étudiant @HolbertonSchool
 
 <p align="left">
