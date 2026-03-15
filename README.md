@@ -37,7 +37,6 @@ Mon parcours est guidé par la curiosité et l'efficacité :
 - **Éloquence :** Capacité de synthèse et de présentation orale (Prix d'éloquence 🏆).
 - **Automatisation :** Passionné par l'optimisation des workflows et la culture DevOps/MLOps.
 - **Peer-Learning :** Apprentissage collaboratif et autonomie renforcée par la méthode Holberton.
-- 
 ---
 
 ### 📫 Me contacter
