@@ -1,6 +1,6 @@
 # Adam Zouaoui
 
-Étudiant AI Engineer à Holberton School Toulouse. Je construis des outils web
+Étudiant Developper FullStack & IA Agentic à Holberton School Toulouse. Je construis des outils web
 et des agents IA qui résolvent des problèmes concrets : les problèmes que je
 rencontre deviennent mes solutions.
 
