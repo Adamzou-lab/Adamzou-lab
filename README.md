@@ -30,8 +30,10 @@ En recherche d'alternance Développeur FullStack et IA Agentique pour 2027.
 
 ## Stats
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Adamzou-lab&show_icons=true&hide_border=true&title_color=00311e&icon_color=00311e&bg_color=fafaf8)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamzou-lab&layout=compact&hide_border=true&title_color=00311e&bg_color=fafaf8)
+![Stats GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adamzou-lab&theme=default)
+![Langages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adamzou-lab&theme=default)
+
+![Streak](https://streak-stats.demolab.com?user=Adamzou-lab&hide_border=true&ring=00311e&fire=00311e&currStreakLabel=00311e&currStreakNum=00311e&sideNums=00311e&background=fafaf8)
 
 ## Contact
 
