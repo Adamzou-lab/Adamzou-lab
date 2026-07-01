@@ -35,4 +35,4 @@ En recherche d'alternance Développeur FullStack et IA Agentique pour 2027.
 
 ## Contact
 
-[Site](https://adamzou.fr/pocs) · adamzpro@icloud.com
+[Site](https://adamzou.fr/pocs) · [LinkedIn](https://www.linkedin.com/in/adamzouaoui/) · adamzpro@icloud.com
